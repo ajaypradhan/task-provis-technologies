@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "id": "Aasda122",
+      "name": "Ajay Pradhan2",
+      "photoUrl": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+      "phone": "9873991589",
+      "email": "pradhanajay14@gmmail.com2",
+      "group": "1"
+    },
+    {
+      "id": "Aasda123",
+      "name": "Ajay Pradhan3",
+      "photoUrl": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+      "phone": "9873991589",
+      "email": "pradhanajay14@gmmail.com3",
+      "group": "1"
+    },
+    {
+      "id": "Aasda124",
+      "name": "Ajay Pradhan4",
+      "photoUrl": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+      "phone": "9873991589",
+      "email": "pradhanajay14@gmmail.com4",
+      "group": "1"
+    },
+    {
+      "name": "ajay",
+      "photoUrl": "data:image/jpeg;base64,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",
+      "phone": "9873991589",
+      "email": "pradhanajay14@gmail.com",
+      "id": "SCNwfVL"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Friends"
+    }
+  ]
+}
